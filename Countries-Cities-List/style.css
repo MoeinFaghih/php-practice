@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    /* border: 2px solid red; */
+}
+
+td{
+    padding: 9px;
+    text-align: center;
+}
+td{
+    width: 300px;
+}
+td:nth-of-type(1){
+    width: 40px;
+}
+td:nth-of-type(2){
+    width: 480px;
+    /* background-color: red; */
+}

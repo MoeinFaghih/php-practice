@@ -1,0 +1,20 @@
+td{
+    border: 2px solid black;
+    padding: 7px;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.error {
+    background-color: red;
+    font-style: italic;
+}
+
+#errorContainer{
+    color: red;
+    font-style: italic;
+    margin: 15px;
+}
